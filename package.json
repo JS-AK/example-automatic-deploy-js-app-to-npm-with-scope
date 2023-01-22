@@ -1,6 +1,6 @@
 {
   "name": "@js-ak/test-dep-43",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "test-dep-43",
   "main": "index.js",
   "scripts": {
