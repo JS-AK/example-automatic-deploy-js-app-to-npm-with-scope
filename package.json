@@ -1,6 +1,6 @@
 {
   "name": "@js-ak/test-dep-43",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test-dep-43",
   "publishConfig": {
     "access": "public",
