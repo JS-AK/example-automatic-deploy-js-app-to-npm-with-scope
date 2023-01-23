@@ -1,7 +1,7 @@
 {
-  "name": "@js-ak/test-dep-43",
+  "name": "@js-ak/example-automatic-deploy-js-app-to-npm-with-scope",
   "version": "1.0.1",
-  "description": "test-dep-43",
+  "description": "example-automatic-deploy-js-app-to-npm-with-scope",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JS-AK/test-dep-43.git"
+    "url": "git+https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope.git"
   },
   "keywords": [
-    "test-dep-43"
+    "example-automatic-deploy-js-app-to-npm-with-scope"
   ],
   "author": "JS-AK",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JS-AK/test-dep-43/issues"
+    "url": "https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/issues"
   },
-  "homepage": "https://github.com/JS-AK/test-dep-43#readme",
+  "homepage": "https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/commit-analyzer": "^9.0.2",
