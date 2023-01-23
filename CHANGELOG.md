@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/compare/v1.0.2...v1.0.3) (2023-01-23)
+
+
+### Bug Fixes
+
+* add dependabot.yml ([acfa5c8](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/commit/acfa5c86a891b856ef32c6c53011c4485cefd1ee))
+
 ## [1.0.2](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/compare/v1.0.1...v1.0.2) (2023-01-23)
 
 
