@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/compare/v1.0.4...v1.0.5) (2023-01-25)
+
+
+### Bug Fixes
+
+* package.json ([94b5997](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/commit/94b5997c1ec1a52fcb7484fba06c50448e576935))
+
 ## [1.0.4](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/compare/v1.0.3...v1.0.4) (2023-01-23)
 
 
