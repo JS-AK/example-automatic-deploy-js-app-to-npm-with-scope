@@ -15,7 +15,11 @@
     "url": "git+https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope.git"
   },
   "keywords": [
-    "example-automatic-deploy-js-app-to-npm-with-scope"
+    "automatic deploy",
+    "deploy",
+    "deploy to npm",
+    "deploy with @",
+    "deploy with scope"
   ],
   "author": "JS-AK",
   "license": "MIT",
