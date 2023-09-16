@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/compare/v1.0.5...v1.0.6) (2023-09-16)
+
+
+### Bug Fixes
+
+* update dev-deps to actual ([cb72ea4](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/commit/cb72ea4e02c53b8479486279539a15c4012f8d33))
+
 ## [1.0.5](https://github.com/JS-AK/example-automatic-deploy-js-app-to-npm-with-scope/compare/v1.0.4...v1.0.5) (2023-01-25)
 
 
